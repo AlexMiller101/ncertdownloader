@@ -40,7 +40,8 @@ subjects_list = {
         'sociology': 'sy',
         'geography': 'gy',
         'politics': 'ps',
-        'business': 'bs'
+        'business': 'bs',
+        'computer': 'cs'
     }
 
 for s in subjects_list:
